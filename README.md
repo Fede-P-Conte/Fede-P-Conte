@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Federica and I'm a Post-Doc researche in Psychology.  
+I use R for statystical analyses.  
+
+## :cat:🐭:sloth::dragon:
 <!--
 **Fede-P-Conte/Fede-P-Conte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
